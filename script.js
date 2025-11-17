@@ -1,50 +1,106 @@
 // ← ← ← ČIA REDAGUOK SKANDUOTES
 const scandals = [
   
-"title": "Kai žaidžia šis žaidėjas",
-"content": "Kai žaidžia šis žaidėjas\nVėl skamba jo daina\nBudėnas mylimiausias nugalės jisai bet ką\nPakilsime į kovą\nŠiandien visa jėga\nVisi mes šiandien tikim Mato Budėno jėga\nOlė olė olė\nOlė olė olė\nVisi mes šiandien tikim Mato Budėno jėga"
+{
+  title: `Kai žaidžia šis žaidėjas`,
+  content: `Kai žaidžia šis žaidėjas
+Vėl skamba jo daina
+Budėnas mylimiausias nugalės jisai bet ką
+Pakilsime į kovą
+Šiandien visa jėga
+Visi mes šiandien tikim Mato Budėno jėga
+Olė olė olė
+Olė olė olė
+Visi mes šiandien tikim Mato Budėno jėga`
 },
 {
-"title": "Tik Budėnas mano širdy",
-"content": "Tik Budėnas mano širdy\nJis stipriausias, žino visi\nŽIV tribūnai nėra lygių\nVisada mes būsim kartu\nLai lai lai lai lai…"
+  title: `Tik Budėnas mano širdy`,
+  content: `Tik Budėnas mano širdy
+Jis stipriausias, žino visi
+ŽIV tribūnai nėra lygių
+Visada mes būsim kartu
+Lai lai lai lai lai…`
 },
 {
-"title": "Jeigu myli Budėną",
-"content": "Jeigu myli tu Budėną, tai suplok\nJeigu myli tu Budėną, tai suplok\nJeigu myli tu Budėną\nJeigu myli tu Budėną\nJeigu myli tu Budėną, tai suplok!"
+  title: `Jeigu myli Budėną`,
+  content: `Jeigu myli tu Budėną, tai suplok
+Jeigu myli tu Budėną, tai suplok
+Jeigu myli tu Budėną
+Jeigu myli tu Budėną
+Jeigu myli tu Budėną, tai suplok!`
 },
 {
-"title": "Budzė - visagalis",
-"content": "Budzės nesustabydsi\nTik pirmyn ne atgal\nPrieš Budzę lenkiasi visi\nBudzė – visagalis"
+  title: `Budzė - visagalis`,
+  content: `Budzės nesustabydsi
+Tik pirmyn ne atgal
+Prieš Budzę lenkiasi visi
+Budzė – visagalis`
 },
 {
-"title": "Dėl Budėno",
-"content": "Budėną aš myliu galbūt labiau\nGalbūt labiau, nei jis Godą myli\nLai lai lai lai lai lai\nBudėną aš myliu galbūt labiau\nGalbūt labiau, nei jis Godą myli"
+  title: `Dėl Budėno`,
+  content: `Budėną aš myliu galbūt labiau
+Galbūt labiau, nei jis Godą myli
+Lai lai lai lai lai lai
+Budėną aš myliu galbūt labiau
+Galbūt labiau, nei jis Godą myli`
 },
 {
-"title": "Atsistokite visi visi",
-"content": "Atsistokite visi visi\nKas palaikot VKM penki\nRezultatas mums nėra svarbus\nMatas Budzė patvarkys visus"
+  title: `Atsistokite visi visi`,
+  content: `Atsistokite visi visi
+Kas palaikot VKM penki
+Rezultatas mums nėra svarbus
+Matas Budzė patvarkys visus`
 },
 {
-"title": "Matas Budėnas",
-"content": "Matas Budėnas\nPasikūręs visada\nMatas Budėnas\nMergos jam tik galvoje\nMatas Budėnas\nProto išvis nebėra\nMatas Budėnas\nLa la la la la la la la la…"
+  title: `Matas Budėnas`,
+  content: `Matas Budėnas
+Pasikūręs visada
+Matas Budėnas
+Mergos jam tik galvoje
+Matas Budėnas
+Proto išvis nebėra
+Matas Budėnas
+La la la la la la la la la…`
 },
 {
-"title": "Budzės diena",
-"content": "Šiandien yra Budzės diena\nGoda jam tik ranka pasiekiama\nSkamba linksmai Budzės daina\nMatas Budėnas mūsų širdyse"
+  title: `Budzės diena`,
+  content: `Šiandien yra Budzės diena
+Goda jam tik ranka pasiekiama
+Skamba linksmai Budzės daina
+Matas Budėnas mūsų širdyse`
 },
 {
-"title": "Budzė",
-"content": "Budzė\nŽinau, kad gali\nJis priekabiauti\nO visą kitą tik detalės\nLai lai lai lai lai lai lai..."
+  title: `Budzė`,
+  content: `Budzė
+Žinau, kad gali
+Jis priekabiauti
+O visą kitą tik detalės
+Lai lai lai lai lai lai lai...`
 },
 {
-"title": "Ei, Budzės fanai",
-"content": "Ei, Budzės fanai,\nVisi rankas į viršų\nBudzė aikštelėj\nAplink viską pamirškim\nŠitam žaidėjui\nTiktai mergos terūpi\nGarbė didžiausia\nBudzėi su merga būti\nLa lai lai lai lai la la..."
+  title: `Ei, Budzės fanai`,
+  content: `Ei, Budzės fanai,
+Visi rankas į viršų
+Budzė aikštelėj
+Aplink viską pamirškim
+Šitam žaidėjui
+Tiktai mergos terūpi
+Garbė didžiausia
+Budzėi su merga būti
+La lai lai lai lai la la...`
 },
 {
-"title": "Ten, kur stovi miestas",
-"content": "Ten, kur stovi miestas\nDidis nuo senų laikų\nŽaidžia ten čiuvakas\nĮdomiausias iš visų\nBudzė, Budzė, Budzė\nJis visom rašys drauge\nMatas, Matas, Matas\nPaprastekas visada\nLai la lai la lai la…"
-}// kad perkelti i kita eilute galima rasyti teksta per kelias eilutes arba naudoti \n
-
+  title: `Ten, kur stovi miestas`,
+  content: `Ten, kur stovi miestas
+Didis nuo senų laikų
+Žaidžia ten čiuvakas
+Įdomiausias iš visų
+Budzė, Budzė, Budzė
+Jis visom rašys drauge
+Matas, Matas, Matas
+Paprastekas visada
+Lai la lai la lai la…`
+}
 ];
 // → → → TIEK
 
