@@ -86,7 +86,7 @@ Aplink viską pamirškim
 Šitam žaidėjui
 Tiktai mergos terūpi
 Garbė didžiausia
-Budzėi su merga būti
+Budzei su merga būti
 La lai lai lai lai la la...`
 },
 {
